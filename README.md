@@ -1,0 +1,2 @@
+# Cognifyz-Technologies-Restaurant-Sale-Dashboard-in-Power-BI
+During my internship at Cognifyz Technologies, I had the opportunity to work on a dynamic project aimed at creating an interactive Restaurant Sale Dashboard. This project is designed to help restaurant managers and business owners easily track and analyze their sales performance, providing actionable insights that can drive decision-making
